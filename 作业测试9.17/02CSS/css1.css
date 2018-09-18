@@ -5,12 +5,12 @@ h2.big{
     color:cornflowerblue;
 }
     
- h2.small{
+ h2.small{ 
      text-indent:10pt;
      font-family:'Segoe UI'，Tahoma,Verdana, Geneva, Tahoma,sans-serif;
      font-size: 18px;
  }
- 
+
  p{
     font-size: 14px;
     color:coral;
